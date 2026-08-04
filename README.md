@@ -1,1 +1,0 @@
-# Kedrion_Training_HMI
